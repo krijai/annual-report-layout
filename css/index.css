@@ -60,6 +60,14 @@ body {
     .report img {
         width: 100%;
     }
+
+    .report-description li {
+        font-size: 10px;
+    }
+
+    .report-title  {
+        font-size: 28px;
+    }
 }
 
 @media screen and (max-width: 500px){
